@@ -1,0 +1,6 @@
+#FileLock
+#Thu Jan 16 13:10:05 CET 2020
+hostName=192.168.2.151
+id=16fae42b69804d4adc216242d6eb1d7fe9aa8557f08
+method=file
+server=192.168.2.151\:54153

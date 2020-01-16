@@ -1,0 +1,3 @@
+INFO  time: initialize in 0.96s
+WARN  Skipping build import for unsupported sbt version <unknown>
+WARN  no build target: C:\Users\LeoLinden\Documents\Projects\Project_Templates\sparkscala\spark2.1.1\build.sbt
